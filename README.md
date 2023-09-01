@@ -22,15 +22,18 @@ In this project, I built image gallery using HTML, CSS, and JavaScript.
 
 ## Links
 
-- Live Demo: [Github Pages]()
+- Live Demo: [Github Pages](https://bccpadge.github.io/image-gallery/)
 
 ## My process
 
 ### Built with
 
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+</p>
 
 ### What I learned
 
@@ -46,10 +49,11 @@ When I started, I tried to follow this [tutorial](https://www.youtube.com/watch?
 <a href="https://www.frontendmentor.io/profile/bccpadge">
 <img src="https://img.shields.io/badge/FrontendMentor-57b1e6?style=for-the-badge&logo=frontendmentor&logoColor=white">
 </a>
-
+<p align="left">
 <a href="https://github.com/bccpadge">
 <img src="https://img.shields.io/badge/Github-9757e6?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 ## Video Credits
 
