@@ -4,7 +4,7 @@
 
 - [Project Description](#project-description)
 - [Screenshot](#screenshot)
-- [Links](#links)
+- [View website](#view-website)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,7 +20,7 @@ In this project, I built image gallery using HTML, CSS, and JavaScript.
 
 ![](./desktop-image-gallery.png)
 
-## Links
+## View website 
 
 - Live Demo: [Github Pages](https://bccpadge.github.io/image-gallery/)
 
